@@ -38,7 +38,7 @@ export const profile = {
   location: 'Lahore, Pakistan',
   email: '28100056@lums.edu.pk',
   linkedin: 'https://www.linkedin.com/in/shafay-rameez-80666524b/' as string, // add your LinkedIn URL to show the link
-  cv: '' as string, // add e.g. '/Shafay-Rameez-CV.pdf' (file in /public) to show the link
+  cv: '/Shafay-Rameez-CV.pdf' as string, // add e.g. '/Shafay-Rameez-CV.pdf' (file in /public) to show the link
   bio: [
     'CS student at LUMS, class of 2028. I work across design, engineering and research, mostly in EdTech.',
     'I design before I build, then watch people use it and iterate. Outside work, I direct special projects at the LUMS Music Society and tutor O Level and SAT students.',
