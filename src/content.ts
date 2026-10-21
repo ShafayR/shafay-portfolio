@@ -64,7 +64,7 @@ export const projects: Project[] = [
     cover: {
       src: '/images/tgr-home.webp',
       alt: 'The Graduate Route homepage: a signpost hero whose signs link to Services, About us, Testimonials and Book a session',
-      caption: 'Each sign on the signpost is a working link.',
+    
       wide: true,
     },
     sections: [
